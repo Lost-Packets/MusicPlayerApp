@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="album_art_content_description" />
+    <string name="play">Play</string>
+    <string name="prev">Prev</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+</resources>
